@@ -74,4 +74,23 @@ export const NavigationTheme = {
     border: COLORS.primaryLight,
     notification: COLORS.danger,
   },
+  fonts: {
+    regular: {
+      fontFamily: FONTS.regular,
+      fontWeight: 'normal',
+    },
+    medium: {
+      fontFamily: FONTS.regular,
+      fontWeight: '500',
+    },
+    bold: {
+      fontFamily: FONTS.bold,
+      fontWeight: 'bold',
+    },
+    heavy: {
+      fontFamily: FONTS.bold,
+      fontWeight: '800',
+    },
+  },
 };
+
