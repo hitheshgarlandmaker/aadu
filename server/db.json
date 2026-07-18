@@ -1,0 +1,17 @@
+{
+  "goats": [],
+  "sales": [],
+  "expenses": [],
+  "licenses": [
+    {
+      "deviceId": "EXPIRED_DEVICE",
+      "valid": false,
+      "expiresAt": "2026-07-01"
+    },
+    {
+      "deviceId": "VALID_DEVICE",
+      "valid": true,
+      "expiresAt": "2027-07-18"
+    }
+  ]
+}
